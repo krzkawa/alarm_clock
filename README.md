@@ -6,4 +6,4 @@ BOM
 |                | price           | link                                                                                                        |
 |----------------|-----------------|-------------------------------------------------------------------------------------------------------------|
 | personal alarm | 12PLN(3,17$)    | https://www.amazon.pl/1-kanalowy-modul-przeka%C5%BAnika-optoizolatorem-niskopoziomowa/dp/B07Q1H63D6?sr=8-14 |
-| 5v relay       | 37,71PLN(10,03) | https://ujeba.cz/gpCFR                                                                                      |
+| 5v relay       | 37,71PLN(10,03$) | https://ujeba.cz/gpCFR                                                                                      |
