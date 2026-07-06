@@ -21,7 +21,8 @@ Its a alarm clock, that has simple design its powered by usb-c it has extremaly 
 
 
 
-                                                      <img width="896" height="573" alt="Screenshot 2026-07-06 at 18 22 28" src="https://github.com/user-attachments/assets/86088949-718d-4efc-9ae4-12a4b5eaa9a2" />
+                                                      
+<img width="896" height="573" alt="Screenshot 2026-07-06 at 18 22 28" src="https://github.com/user-attachments/assets/86088949-718d-4efc-9ae4-12a4b5eaa9a2" />
 <img width="594" height="478" alt="Screenshot 2026-07-06 at 18 22 37" src="https://github.com/user-attachments/assets/00635321-91aa-41a2-a7d2-0ab969d85ff6" />
 <img width="614" height="501" alt="Screenshot 2026-07-06 at 18 23 19" src="https://github.com/user-attachments/assets/b5882ee2-fd36-43e3-9322-5431eb8445c8" />
 <img width="607" height="507" alt="Screenshot 2026-07-06 at 18 23 49" src="https://github.com/user-attachments/assets/982bf74e-308f-412a-a2a2-62539cee3d3b" />
