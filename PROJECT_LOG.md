@@ -13,5 +13,15 @@
 ## July 6, 2026
 - **10:27 – 12:13** (1 h 46 min) — Completed the rest of the case
 
+
+## July 7, 2026
+- **16:34 - 18:57** (2 h 24 min) redesigned most of the case in fusion360
+
+## July 8, 2026
+- **16:57 - redesigned rest of the case in fusion360
+
+
+
+
 ---
-**Total logged time:** ~6 h 53 min
+**Total logged time:** ~9 h 17 min
